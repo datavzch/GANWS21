@@ -2,6 +2,6 @@
 
 Sketch of Contents for the Data visualization workshop.\
 
-##todo
+##todo##
 - Further commenting and documentation 
 - Example projects and presentation of results 
