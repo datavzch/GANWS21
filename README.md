@@ -1,6 +1,6 @@
-# GANWS21_DEMO
+# GANWS21
 
-Sketch of Contents for the Data visualization workshop.
+Sketch of Contents for the GAN & Data visualization workshop/class.
 
 ## Current order of content
 1. [Introduction](https://github.com/datavzch/GANWS21_DEMO/blob/main/1_Introduction.ipynb)
