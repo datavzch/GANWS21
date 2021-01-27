@@ -13,9 +13,9 @@ Sketch of Contents for the Data visualization workshop.
 
 3. [StyleGAN](https://github.com/datavzch/GANWS21_DEMO/blob/main/3_StyleGAN.ipynb)
 
-* [Excersice 3](https://github.com/datavzch/GANWS21_DEMO/blob/main/Training_Stylegan.ipynb)
+* [Exercise 3](https://github.com/datavzch/GANWS21_DEMO/blob/main/Training_Stylegan.ipynb)
 
-* [Excersice 4](https://github.com/datavzch/GANWS21_DEMO/blob/main/Generating_from_Stylegan.ipynb)
+* [Exercise 4](https://github.com/datavzch/GANWS21_DEMO/blob/main/Generating_from_Stylegan.ipynb)
 
 4. Personal Data Visulization Project with StyleGAN - Presentation and Examples * Not Ready yet
 
